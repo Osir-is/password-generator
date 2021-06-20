@@ -30,7 +30,7 @@ script.js (Relative path:Assets/Assets/script.js)
 README.md(Relative path:README.md)
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/78626961/122671982-24217d80-d1c1-11eb-8350-6a93eaf17690.png)
+![image](https://user-images.githubusercontent.com/78626961/122672091-b033a500-d1c1-11eb-87ad-1ba2841227c2.png)
 ![image](https://user-images.githubusercontent.com/78626961/122671998-3996a780-d1c1-11eb-9810-ca551e9f1f66.png)
 ![image](https://user-images.githubusercontent.com/78626961/122672010-4915f080-d1c1-11eb-93dd-d23bf23aacde.png)
 ![image](https://user-images.githubusercontent.com/78626961/122672024-5632df80-d1c1-11eb-828e-e649d316efa0.png)
