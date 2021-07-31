@@ -1,4 +1,8 @@
 # password-generator
+##Deployed Link
+
+https://osir-is.github.io/password-generator/
+
 ## Description
 
 The password generator , was start up code which wanted to allow the user the ability to enter a length for a password , and once they click the button they are introduced to a set of prompts asking the user what type of characters they would like to be within their password. The application then generates a random password based on the pre-requsites selected by the user. for maximum security the password is randomly generated and is made up of : lower-case, upper-case, numeric & special characters. 
